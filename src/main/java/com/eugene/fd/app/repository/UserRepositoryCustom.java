@@ -5,7 +5,7 @@ import com.eugene.fd.app.domain.User;
 /**
  * <p>UserRepositoryCustom interface.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public interface UserRepositoryCustom {

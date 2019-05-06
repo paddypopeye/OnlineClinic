@@ -10,7 +10,7 @@ package com.eugene.fd.app.domain;
  * <li>Paid : indicate that this invoice is already paid by customer.</li>
  * </ul>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public enum InvoiceStatus {

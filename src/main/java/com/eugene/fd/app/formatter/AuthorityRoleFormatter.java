@@ -12,7 +12,7 @@ import com.eugene.fd.app.domain.AuthorityRole;
  * {@link com.eugene.fd.app.domain.AuthorityRole} enumeration as a property in our model.
  *
  * @see com.eugene.fd.app.domain.AuthorityRole
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class AuthorityRoleFormatter implements Formatter<AuthorityRole> {

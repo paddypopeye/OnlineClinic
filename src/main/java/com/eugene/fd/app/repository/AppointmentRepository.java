@@ -8,7 +8,7 @@ import com.eugene.fd.app.domain.Appointment;
 /**
  * <p>AppointmentRepository interface.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 

@@ -10,7 +10,7 @@ package com.eugene.fd.app.domain;
  * the doctor account.</li>
  * </ul>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public enum AuthorityRole {

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * <p>HomeController class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class HomeController {

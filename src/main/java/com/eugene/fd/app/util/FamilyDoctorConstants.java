@@ -3,7 +3,7 @@ package com.eugene.fd.app.util;
 /**
  * <p>FamilyDoctorConstants class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class FamilyDoctorConstants {

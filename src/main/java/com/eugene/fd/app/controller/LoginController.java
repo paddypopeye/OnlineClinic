@@ -15,7 +15,7 @@ import com.eugene.fd.app.domain.User;
 /**
  * <p>LoginController class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class LoginController {

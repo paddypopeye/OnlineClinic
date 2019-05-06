@@ -11,7 +11,7 @@ import com.eugene.fd.app.util.FamilyDoctorConstants;
  * password of {@link com.eugene.fd.app.domain.User}
  *
  * @see {@link com.eugene.fd.app.domain.User}
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class PasswordValidator implements Validator {

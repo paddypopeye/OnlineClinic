@@ -11,7 +11,7 @@ import javax.persistence.Id;
 /**
  * <p>Authority class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 @Entity(name = "Authority")

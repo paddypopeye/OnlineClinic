@@ -27,7 +27,7 @@ import com.eugene.fd.app.validator.PasswordValidator;
 /**
  * The servlet controller for patient account
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 

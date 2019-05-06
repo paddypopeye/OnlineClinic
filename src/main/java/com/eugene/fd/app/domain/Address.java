@@ -14,7 +14,7 @@ import com.eugene.fd.app.util.FamilyDoctorConstants;
 /**
  * <p>Address class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 @Table(name = "Address")

@@ -14,7 +14,7 @@ import com.eugene.fd.app.repository.UserRepositoryCustom;
 /**
  * <p>UserRepositoryImpl class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class UserRepositoryImpl implements UserRepositoryCustom {

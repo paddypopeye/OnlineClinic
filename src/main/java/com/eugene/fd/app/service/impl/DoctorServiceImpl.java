@@ -24,7 +24,7 @@ import com.eugene.fd.app.util.FamilyDoctorUtil;
 /**
  * <p>DoctorServiceImpl class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 @Transactional

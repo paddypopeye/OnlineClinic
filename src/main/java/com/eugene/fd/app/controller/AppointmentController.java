@@ -24,7 +24,7 @@ import com.eugene.fd.app.service.DoctorService;
 /**
  * <p>AppointmentController class.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 

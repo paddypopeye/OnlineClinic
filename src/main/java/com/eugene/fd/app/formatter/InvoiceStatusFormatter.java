@@ -12,7 +12,7 @@ import com.eugene.fd.app.domain.InvoiceStatus;
  * {@link com.eugene.fd.app.domain.InvoiceStatus} enumeration as a property in our model.
  *
  * @see com.eugene.fd.app.domain.InvoiceStatus
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class InvoiceStatusFormatter implements Formatter<InvoiceStatus> {

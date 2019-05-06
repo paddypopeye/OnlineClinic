@@ -7,7 +7,7 @@ import com.eugene.fd.app.domain.Appointment;
 /**
  * <p>AppointmentService interface.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public interface AppointmentService {

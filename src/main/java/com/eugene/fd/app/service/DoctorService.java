@@ -11,7 +11,7 @@ import com.eugene.fd.app.domain.Specialization;
 /**
  * <p>DoctorService interface.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public interface DoctorService {

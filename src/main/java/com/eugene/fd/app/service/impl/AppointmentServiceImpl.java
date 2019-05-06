@@ -24,7 +24,7 @@ import com.eugene.fd.app.util.FamilyDoctorUtil;
 /**
  * <p>AppointmentServiceImpl class.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 

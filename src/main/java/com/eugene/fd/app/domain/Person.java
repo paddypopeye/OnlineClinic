@@ -23,7 +23,7 @@ import com.eugene.fd.app.util.FamilyDoctorConstants;
 /**
  * <p>Abstract Person class.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public abstract class Person {

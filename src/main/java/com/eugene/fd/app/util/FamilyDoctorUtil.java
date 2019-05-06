@@ -18,7 +18,7 @@ import com.eugene.fd.app.domain.AppointmentStatus;
 /**
  * <p>FamilyDoctorUtil class.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class FamilyDoctorUtil {

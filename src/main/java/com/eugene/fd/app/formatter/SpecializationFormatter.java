@@ -12,7 +12,7 @@ import com.eugene.fd.app.domain.Specialization;
  * {@link com.eugene.fd.app.domain.Specialization} enumeration as a property in our model.
  *
  * @see com.eugene.fd.app.domain.Specialization
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class SpecializationFormatter implements Formatter<Specialization> {

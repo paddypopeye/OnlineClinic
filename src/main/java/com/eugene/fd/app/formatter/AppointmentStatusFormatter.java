@@ -12,7 +12,7 @@ import com.eugene.fd.app.domain.AppointmentStatus;
  * {@link com.eugene.fd.app.domain.AppointmentStatus} enumeration as a property in our model.
  *
  * @see com.eugene.fd.app.domain.AppointmentStatus
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class AppointmentStatusFormatter implements Formatter<AppointmentStatus> {

@@ -12,7 +12,7 @@ import com.eugene.fd.app.domain.Patient;
  * {@link com.eugene.fd.app.domain.Patient} domain models, it controls all business logic for this object
  * and also provides all needed methods to proceed the business
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public interface PatientService {

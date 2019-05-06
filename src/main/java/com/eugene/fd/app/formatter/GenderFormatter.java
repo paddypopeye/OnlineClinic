@@ -12,7 +12,7 @@ import com.eugene.fd.app.domain.Gender;
  * enumeration as a property in our model.
  *
  * @see com.eugene.fd.app.domain.Gender
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public class GenderFormatter implements Formatter<Gender> {

@@ -3,7 +3,7 @@ package com.eugene.fd.app.domain;
 /**
  * <p>Gender class.</p>
  *
- * @author Toan Quach
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public enum Gender {

@@ -14,7 +14,7 @@ import com.eugene.fd.app.domain.Specialization;
 /**
  * <p>DoctorRepository interface.</p>
  *
- * @author kamanashisroy
+ * @author Eugene Sleator
  * @version $Id: $Id
  */
 public interface DoctorRepository extends CrudRepository<Doctor, Integer> {
